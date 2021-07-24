@@ -1,6 +1,10 @@
 # nfa-to-dfa
 Gives a table of the tranformation of a nfa (nondeterministic finite automaton) to a dfa (deterministic finite automaton)
 
+For example to represent this nfa:
+
+![alt text](https://github.com/MaximHirschmann/nfa-to-dfa/blob/main/example-nfa.JPG)
+
 Edit the following lines in the .py file
 
 ```
